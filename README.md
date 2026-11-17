@@ -1,2 +1,1 @@
-# tokyo_2612
-東京ファミセ2026/12
+# tokyo_privatesale
